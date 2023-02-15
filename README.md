@@ -2,7 +2,7 @@
 
 This website is created using HTML and JavaScript
 
-This project is live at  https://mkthakur04.github.io/Keep-Notes-Website/
+This project is live at  https://manoharthakur18.github.io/Keep-Notes-Website/
 
 
 This is a notes website where you can write your notes, you can make a notes by providing a title and description 
